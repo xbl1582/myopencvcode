@@ -29,7 +29,7 @@ def print_hi(name):
 if __name__ == '__main__':
     # foldername="C:/Users/GDWT34/Desktop/"
     # imagepath = "C:/Users/GDWT34/Desktop/1.jpg"
-    # # imageOperation.operationimage(imagepath);
+    # imageOperation.operationimage(imagepath);
     # imageOperation.changeImage(foldername,imagepath);
     # print_hi('PyCharm')
     # numpyLearn01.arraychange();
