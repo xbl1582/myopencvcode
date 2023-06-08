@@ -156,7 +156,7 @@ def splitiHsvmage(src):
 
 
 def main():
-    path="a1.JPG"
+    path= "a1.jpg"
     # changeB2G(path);
     # changeBGR2HSV(path)
     # splitibgrmage(path)

@@ -19,7 +19,7 @@ def cuizhipingjie():
     print(array)
     
 def pingjieimg():
-    path= "a1.JPG"
+    path= "a1.jpg"
     image=cv2.imread(path)
     cv2.namedWindow("text", 0)
     cv2.resizeWindow("text", 400, 300) #设置窗口大小

@@ -50,6 +50,6 @@ def ThresholdTest(src):
     cv2.destroyAllWindows();
 
 def main():
-    ThresholdTest('a1.JPG');
+    ThresholdTest('a1.jpg');
 if __name__=='__main__':
     main();

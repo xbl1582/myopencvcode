@@ -93,7 +93,7 @@ def hui_zhiwenzi():
     cv2.destroyAllWindows()
 def hui_zhiwenziOnImage():
     # huabu = np.ones((500, 500, 3), np.uint8) * 255;
-    image=cv2.imread("a1.JPG");
+    image=cv2.imread("a1.jpg");
     huabu=cv2.putText(image,"mrsoft",(20,70),cv2.FONT_HERSHEY_TRIPLEX+cv2.FONT_ITALIC,2,(0,0,0),3,8,True)
 
     # cv2.namedWindow("circle", 0)

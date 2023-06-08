@@ -25,8 +25,8 @@ def warpPerspectiveImage(src):
     cv2.destroyAllWindows();
 
 def main():
-    # warpaffinelImage('a1.JPG')
-    # translationImage('a1.JPG')
-   warpPerspectiveImage('a1.JPG')
+    # warpaffinelImage('a1.jpg')
+    # translationImage('a1.jpg')
+   warpPerspectiveImage('a1.jpg')
 if __name__=='__main__':
     main();

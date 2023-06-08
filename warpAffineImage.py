@@ -68,8 +68,8 @@ def AffineTransFormImage(src):
     cv2.destroyAllWindows();
 
 def main():
-    # warpaffinelImage('a1.JPG')
-    # translationImage('a1.JPG')
-   AffineTransFormImage('a1.JPG')
+    # warpaffinelImage('a1.jpg')
+    # translationImage('a1.jpg')
+   AffineTransFormImage('a1.jpg')
 if __name__=='__main__':
     main();

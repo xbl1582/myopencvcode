@@ -18,8 +18,8 @@ def resizeImageFxFy(src,fx,fy):
     cv2.destroyAllWindows();
 
 def main():
-    # resizeImagedsize('a1.JPG',(300,300));
-    resizeImageFxFy('a1.JPG',1/10,1/10)
+    # resizeImagedsize('a1.jpg',(300,300));
+    resizeImageFxFy('a1.jpg', 1 / 10, 1 / 10)
 
 if __name__=='__main__':
     main()

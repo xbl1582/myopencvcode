@@ -18,9 +18,9 @@ def overreturnImage(src,flipcode):
         cv2.destroyAllWindows()
 
 def main():
-        overreturnImage('a1.JPG', 0)
-        overreturnImage('a1.JPG', 1)
-        overreturnImage('a1.JPG',-1)
+        overreturnImage('a1.jpg', 0)
+        overreturnImage('a1.jpg', 1)
+        overreturnImage('a1.jpg', -1)
 
 if __name__=='__main__':
     main();
